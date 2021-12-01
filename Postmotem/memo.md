@@ -18,6 +18,25 @@
         - 戦術的で長期的な価値を持たない
         - 作業量がサービスの成長に比例する
 
+---
+
+## まとめ
+
+- ポストモーテムはインシデントから学習し再発防止のために行われる
+- ポストモーテムのプロセス全体で批判を伴ってはいけない
+- ポストモーテムを書くには準備が必要
+    - 書く/書かないの基準
+    - 情報収集ができる
+    - レビューの仕組み
+    - 共有方法
+- ポストモーテム文化の導入
+    - 大変である
+    - 積極的な発信・トレーニング
+    - よいポストモーテム書く事を称賛する
+    - プロセス自体の改善
+
+---
+
 ## ポストモーテムの目的
 
 <details><summary>参考文献</summary>
@@ -440,4 +459,5 @@ SRE本 p507
     - [google/workbook: Postmortem Culture: Learning from Failure](https://sre.google/workbook/postmortem-culture/)
 - [PagerDuty Postmortems](https://postmortems.pagerduty.com/)
 
-- [プロジェクトのポストモーテム会議を成功に導く 6 つのヒント](https://asana.com/ja/resources/project-post-mortem-tips)
+- [asana/プロジェクトのポストモーテム会議を成功に導く 6 つのヒント](https://asana.com/ja/resources/project-post-mortem-tips)
+- [re:Work/失敗から学ぶ](https://rework.withgoogle.com/jp/guides/foster-an-innovative-workplace/steps/learn-from-failures/)
